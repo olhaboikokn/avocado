@@ -1,3 +1,0 @@
-a = 59
-b = bin(a)
-print(b)
