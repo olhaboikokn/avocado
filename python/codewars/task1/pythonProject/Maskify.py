@@ -15,4 +15,4 @@ def maskify(cc):
 if __name__ == "__main__":
     cc1 = "4556364607935616"
     cc2 = '54'
-    print(maskify(cc))
+    print(maskify(cc1))
